@@ -1,0 +1,58 @@
+ASTRA AI - NO-API MISSION DIAGRAM GENERATOR
+
+WHAT CHANGED
+- The user only chooses an ISRO mission and a diagram type.
+- Mermaid source templates and curated mission information live in src/lib/mission-diagrams.server.ts.
+- GET /api/diagrams returns the mission catalogue; GET /api/diagrams?mission=<id>&type=<flowchart|sequence|mindmap> returns the selected mission metadata and Mermaid text.
+- The browser renders Mermaid text locally and displays the diagram.
+- Export buttons support SVG and PNG downloads. PDF opens the browser print dialog; choose Save as PDF.
+- No Gemini or other paid AI API is called by this feature. The local /api/diagrams route is an internal app endpoint, not a paid external AI API.
+
+RUN IN VS CODE
+1. Extract the ZIP. Open the project folder that contains package.json in VS Code.
+2. Open Terminal > New Terminal.
+3. Run: npm install
+4. Run: npm run dev
+5. Open the local URL shown in the terminal and sign in.
+6. Open Diagram Generator, select a mission and diagram type.
+
+FILES
+- src/lib/mission-diagrams.server.ts: mission catalogue and server-side Mermaid templates.
+- src/routes/api/diagrams.ts: local backend endpoint.
+- src/routes/_authenticated/diagrams.tsx: selectors, preview and exports.
+
+MISSION COVERAGE
+The bundled catalogue includes a broad set of major ISRO missions/programmes, including Aryabhata, Bhaskara-I, APPLE, INSAT-1B, IRS-1A, INSAT-3D, Resourcesat-1, Cartosat-1, Chandrayaan-1/2/3, Mars Orbiter Mission, AstroSat, NavIC, Aditya-L1, XPoSat, Gaganyaan, NVS-01, RISAT-2B, GSAT-7/11, PSLV-C37 and SSLV-D2/EOS-07. The generator also adds mission entries from the project’s existing src/data/space-dataset.ts file. This is the full mission set available in that local dataset plus detailed records added for major missions, not a guaranteed exhaustive inventory of every satellite and launch in ISRO history. Extend SPACE_MISSIONS and/or the MISSIONS array with verified records to add more.
+
+IMPORTANT
+- Mission data is curated and bundled locally; it does not automatically fetch live information from ISRO or the internet.
+- Verify mission facts, dates, payload names and current programme status against official ISRO sources before using the diagrams in a formal report.
+- The diagram generator itself uses no external AI API. Other ASTRA features may still use their configured APIs.
+
+AI PERSONA KNOWLEDGE GUIDE
+--------------------------
+Detailed reference: data/reference/ASTRA_AI_Persona_Field_Guide.docx
+Editable training source: data/reference/ASTRA_AI_Persona_Field_Guide.md
+
+The guide covers Vikram Sarabhai, A. P. J. Abdul Kalam, Kalpana Chawla, Rakesh Sharma, Satish Dhawan and Sunita Williams, including public career facts, relevant missions, documented difficulties, expertise and safe-answer rules. The persona chat now retrieves both mission-related passages and persona-related passages from the same local archive.
+
+To rebuild the full searchable index after adding or changing mission documents, open a terminal in the project root and run:
+  npm install
+  npm run train
+  npm run dev
+
+This is retrieval-augmented knowledge indexing, not neural-network fine-tuning. The API model can use retrieved guide and mission passages as context when the local archive alone cannot confidently answer. Restart the development server after rebuilding the index.
+
+
+SATELLITE RECOMMENDATION TABLE + EXTRA DIAGRAMS
+- The uploaded 400-row satellite decision table is stored under data/satellite_recommendations/ and src/data/satellite-decision-table.json.
+- It is included in the searchable data corpus when running npm run train.
+- Added diagram types: Mission Architecture, Orbital Timeline, System Dependency Graph, Telemetry Data Flow, Satellite Recommendation Logic, and Coverage/Constellation Flow.
+- Recommendation records describe feasibility for a requested application/coverage/orbit/revisit. Where a requested orbit is marked unavailable, the app must explain that and use the table's alternative rather than claiming the exact combination exists. Verify operational status against official sources before deployment.
+- Run npm install, npm run train, npm run dev. This is retrieval/indexing, not neural model fine-tuning.
+
+
+GENERATE DIAGRAM (CURATED KNOWLEDGE + GEMINI)
+- The Diagram Generator page has one "Generate diagram" button. It first draws the curated mission diagram, then sends that diagram and the mission facts (plus optional extra instructions) to /api/generate (task "diagram"). Gemini improves it, using the mission archive, and the result replaces the curated one.
+- Needs GEMINI_API_KEY in .env for the AI step. If the key is missing, the AI fails or its diagram cannot be drawn, the curated diagram stays on screen with a short message.
+- AI diagrams can contain mistakes: verify facts against official ISRO sources.

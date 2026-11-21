@@ -1,0 +1,602 @@
+[
+ {
+  "id": "altitude",
+  "term": "Altitude",
+  "meaning": "Height above Earth's surface or another reference level.",
+  "aliases": [
+   "Altitude"
+  ]
+ },
+ {
+  "id": "aoi-area-of-interest",
+  "term": "AOI (Area of Interest)",
+  "meaning": "The geographic region selected for a search or analysis.",
+  "aliases": [
+   "AOI",
+   "Area of Interest",
+   "AOI (Area of Interest)"
+  ]
+ },
+ {
+  "id": "api",
+  "term": "API",
+  "meaning": "A way for software programs to request data or services from other programs.",
+  "aliases": [
+   "API"
+  ]
+ },
+ {
+  "id": "atmosphere",
+  "term": "Atmosphere",
+  "meaning": "The layer of gases surrounding Earth.",
+  "aliases": [
+   "Atmosphere"
+  ]
+ },
+ {
+  "id": "authentication",
+  "term": "Authentication",
+  "meaning": "Checking that a user or system is who they claim to be.",
+  "aliases": [
+   "Authentication"
+  ]
+ },
+ {
+  "id": "authorization",
+  "term": "Authorization",
+  "meaning": "Deciding what an authenticated user is allowed to access.",
+  "aliases": [
+   "Authorization"
+  ]
+ },
+ {
+  "id": "backend",
+  "term": "Backend",
+  "meaning": "The part of an application that processes requests behind the scenes.",
+  "aliases": [
+   "Backend"
+  ]
+ },
+ {
+  "id": "cloud-motion-vector-cmv",
+  "term": "Cloud Motion Vector (CMV)",
+  "meaning": "An estimate of the speed and direction of moving clouds.",
+  "aliases": [
+   "Cloud Motion Vector",
+   "CMV",
+   "Cloud Motion Vector (CMV)"
+  ]
+ },
+ {
+  "id": "coordinates",
+  "term": "Coordinates",
+  "meaning": "Numbers used to identify a location.",
+  "aliases": [
+   "Coordinates"
+  ]
+ },
+ {
+  "id": "cosine-similarity",
+  "term": "Cosine Similarity",
+  "meaning": "A score used to estimate how similar two numerical representations are.",
+  "aliases": [
+   "Cosine Similarity"
+  ]
+ },
+ {
+  "id": "cyclone",
+  "term": "Cyclone",
+  "meaning": "A rotating weather system with strong winds around a low-pressure centre.",
+  "aliases": [
+   "Cyclone"
+  ]
+ },
+ {
+  "id": "data-archive",
+  "term": "Data Archive",
+  "meaning": "A stored collection of data kept for future access.",
+  "aliases": [
+   "Data Archive"
+  ]
+ },
+ {
+  "id": "data-product",
+  "term": "Data Product",
+  "meaning": "A processed dataset prepared for a particular use.",
+  "aliases": [
+   "Data Product"
+  ]
+ },
+ {
+  "id": "database",
+  "term": "Database",
+  "meaning": "An organized collection of information that can be searched and updated.",
+  "aliases": [
+   "Database"
+  ]
+ },
+ {
+  "id": "endpoint",
+  "term": "Endpoint",
+  "meaning": "A specific web address where an application can send or receive data.",
+  "aliases": [
+   "Endpoint"
+  ]
+ },
+ {
+  "id": "entity",
+  "term": "Entity",
+  "meaning": "A specific item or concept, such as a satellite or mission.",
+  "aliases": [
+   "Entity"
+  ]
+ },
+ {
+  "id": "environment-variable",
+  "term": "Environment Variable",
+  "meaning": "A configuration setting stored outside the main code.",
+  "aliases": [
+   "Environment Variable"
+  ]
+ },
+ {
+  "id": "epsg-4326-wgs-84",
+  "term": "EPSG:4326 / WGS 84",
+  "meaning": "A common geographic coordinate system based on latitude and longitude.",
+  "aliases": [
+   "EPSG:4326",
+   "WGS 84",
+   "EPSG:4326 / WGS 84"
+  ]
+ },
+ {
+  "id": "flask",
+  "term": "Flask",
+  "meaning": "A Python framework used to build web applications.",
+  "aliases": [
+   "Flask"
+  ]
+ },
+ {
+  "id": "frontend",
+  "term": "Frontend",
+  "meaning": "The part of a website users see and interact with.",
+  "aliases": [
+   "Frontend"
+  ]
+ },
+ {
+  "id": "gemini-api",
+  "term": "Gemini API",
+  "meaning": "A service interface that allows an application to use Google's Gemini AI models.",
+  "aliases": [
+   "Gemini API"
+  ]
+ },
+ {
+  "id": "generative-ai",
+  "term": "Generative AI",
+  "meaning": "AI that creates content such as text, images, or audio.",
+  "aliases": [
+   "Generative AI"
+  ]
+ },
+ {
+  "id": "geospatial-data",
+  "term": "Geospatial Data",
+  "meaning": "Information connected to a location on Earth.",
+  "aliases": [
+   "Geospatial Data"
+  ]
+ },
+ {
+  "id": "geotiff",
+  "term": "GeoTIFF",
+  "meaning": "An image format that can include geographic location information.",
+  "aliases": [
+   "GeoTIFF"
+  ]
+ },
+ {
+  "id": "ground-station",
+  "term": "Ground Station",
+  "meaning": "A facility on Earth that communicates with satellites.",
+  "aliases": [
+   "Ground Station"
+  ]
+ },
+ {
+  "id": "hdf5",
+  "term": "HDF5",
+  "meaning": "A file format for storing large scientific datasets.",
+  "aliases": [
+   "HDF5"
+  ]
+ },
+ {
+  "id": "humidity",
+  "term": "Humidity",
+  "meaning": "The amount of water vapour in the air.",
+  "aliases": [
+   "Humidity"
+  ]
+ },
+ {
+  "id": "imager",
+  "term": "Imager",
+  "meaning": "An instrument that captures images of Earth or space.",
+  "aliases": [
+   "Imager"
+  ]
+ },
+ {
+  "id": "insat-3d",
+  "term": "INSAT-3D",
+  "meaning": "An Indian meteorological satellite used for weather observation and atmospheric measurements.",
+  "aliases": [
+   "INSAT-3D"
+  ]
+ },
+ {
+  "id": "insat-3dr",
+  "term": "INSAT-3DR",
+  "meaning": "An Indian meteorological satellite that supports weather monitoring.",
+  "aliases": [
+   "INSAT-3DR"
+  ]
+ },
+ {
+  "id": "isro",
+  "term": "ISRO",
+  "meaning": "Indian Space Research Organisation, India's national space agency.",
+  "aliases": [
+   "ISRO"
+  ]
+ },
+ {
+  "id": "knowledge-base",
+  "term": "Knowledge Base",
+  "meaning": "A collection of information a system can search to answer questions.",
+  "aliases": [
+   "Knowledge Base"
+  ]
+ },
+ {
+  "id": "knowledge-graph",
+  "term": "Knowledge Graph",
+  "meaning": "Connected facts showing relationships between entities.",
+  "aliases": [
+   "Knowledge Graph"
+  ]
+ },
+ {
+  "id": "language-model",
+  "term": "Language Model",
+  "meaning": "An AI system trained to understand and generate text.",
+  "aliases": [
+   "Language Model"
+  ]
+ },
+ {
+  "id": "latitude",
+  "term": "Latitude",
+  "meaning": "How far north or south a place is from the Equator.",
+  "aliases": [
+   "Latitude"
+  ]
+ },
+ {
+  "id": "launch-vehicle",
+  "term": "Launch Vehicle",
+  "meaning": "A rocket used to carry a satellite or spacecraft into space.",
+  "aliases": [
+   "Launch Vehicle"
+  ]
+ },
+ {
+  "id": "longitude",
+  "term": "Longitude",
+  "meaning": "How far east or west a place is from the Prime Meridian.",
+  "aliases": [
+   "Longitude"
+  ]
+ },
+ {
+  "id": "megha-tropiques",
+  "term": "Megha-Tropiques",
+  "meaning": "A satellite mission focused on the water cycle and weather in tropical regions.",
+  "aliases": [
+   "Megha-Tropiques"
+  ]
+ },
+ {
+  "id": "metadata",
+  "term": "Metadata",
+  "meaning": "Information describing a dataset, such as date, format, location, or resolution.",
+  "aliases": [
+   "Metadata"
+  ]
+ },
+ {
+  "id": "meteorology",
+  "term": "Meteorology",
+  "meaning": "The study of weather and atmospheric conditions.",
+  "aliases": [
+   "Meteorology"
+  ]
+ },
+ {
+  "id": "mission",
+  "term": "Mission",
+  "meaning": "A planned space activity with a specific goal.",
+  "aliases": [
+   "Mission"
+  ]
+ },
+ {
+  "id": "monsoon",
+  "term": "Monsoon",
+  "meaning": "A seasonal wind pattern associated with changes in rainfall.",
+  "aliases": [
+   "Monsoon"
+  ]
+ },
+ {
+  "id": "mosdac",
+  "term": "MOSDAC",
+  "meaning": "Meteorological and Oceanographic Satellite Data Archival Centre, an ISRO portal for satellite-based weather and ocean data.",
+  "aliases": [
+   "MOSDAC"
+  ]
+ },
+ {
+  "id": "natural-language-processing-nlp",
+  "term": "Natural Language Processing (NLP)",
+  "meaning": "Methods that help computers work with human language.",
+  "aliases": [
+   "Natural Language Processing",
+   "NLP",
+   "Natural Language Processing (NLP)"
+  ]
+ },
+ {
+  "id": "netcdf",
+  "term": "NetCDF",
+  "meaning": "A file format commonly used for scientific data such as weather and climate measurements.",
+  "aliases": [
+   "NetCDF"
+  ]
+ },
+ {
+  "id": "oceanography",
+  "term": "Oceanography",
+  "meaning": "The study of oceans and their properties.",
+  "aliases": [
+   "Oceanography"
+  ]
+ },
+ {
+  "id": "orbit",
+  "term": "Orbit",
+  "meaning": "The curved path an object follows around a planet or another body.",
+  "aliases": [
+   "Orbit"
+  ]
+ },
+ {
+  "id": "outgoing-longwave-radiation-olr",
+  "term": "Outgoing Longwave Radiation (OLR)",
+  "meaning": "Heat energy emitted by Earth and its atmosphere toward space.",
+  "aliases": [
+   "Outgoing Longwave Radiation",
+   "OLR",
+   "Outgoing Longwave Radiation (OLR)"
+  ]
+ },
+ {
+  "id": "payload",
+  "term": "Payload",
+  "meaning": "Equipment carried by a satellite to perform its main job.",
+  "aliases": [
+   "Payload"
+  ]
+ },
+ {
+  "id": "precipitation",
+  "term": "Precipitation",
+  "meaning": "Water falling from clouds as rain, snow, sleet, or hail.",
+  "aliases": [
+   "Precipitation"
+  ]
+ },
+ {
+  "id": "relationship",
+  "term": "Relationship",
+  "meaning": "A connection between two entities.",
+  "aliases": [
+   "Relationship"
+  ]
+ },
+ {
+  "id": "remote-sensing",
+  "term": "Remote Sensing",
+  "meaning": "Collecting information from a distance, often using satellites.",
+  "aliases": [
+   "Remote Sensing"
+  ]
+ },
+ {
+  "id": "resolution",
+  "term": "Resolution",
+  "meaning": "The amount of detail shown in an image or dataset.",
+  "aliases": [
+   "Resolution"
+  ]
+ },
+ {
+  "id": "retrieval",
+  "term": "Retrieval",
+  "meaning": "Finding relevant information from a collection of documents.",
+  "aliases": [
+   "Retrieval"
+  ]
+ },
+ {
+  "id": "retrieval-augmented-generation-rag",
+  "term": "Retrieval-Augmented Generation (RAG)",
+  "meaning": "An approach where AI retrieves reference information and uses it to help create an answer.",
+  "aliases": [
+   "Retrieval-Augmented Generation",
+   "RAG",
+   "Retrieval-Augmented Generation (RAG)"
+  ]
+ },
+ {
+  "id": "satellite",
+  "term": "Satellite",
+  "meaning": "An object that orbits a planet; it can be natural or human-made.",
+  "aliases": [
+   "Satellite"
+  ]
+ },
+ {
+  "id": "scatsat-1",
+  "term": "SCATSAT-1",
+  "meaning": "An Indian satellite mission that measures ocean surface wind speed and direction.",
+  "aliases": [
+   "SCATSAT-1"
+  ]
+ },
+ {
+  "id": "sea-surface-temperature-sst",
+  "term": "Sea Surface Temperature (SST)",
+  "meaning": "The temperature of the ocean's upper surface.",
+  "aliases": [
+   "Sea Surface Temperature",
+   "SST",
+   "Sea Surface Temperature (SST)"
+  ]
+ },
+ {
+  "id": "sensor",
+  "term": "Sensor",
+  "meaning": "A device that detects or measures something.",
+  "aliases": [
+   "Sensor"
+  ]
+ },
+ {
+  "id": "sounder",
+  "term": "Sounder",
+  "meaning": "An instrument that measures atmospheric conditions at different heights.",
+  "aliases": [
+   "Sounder"
+  ]
+ },
+ {
+  "id": "spacecraft",
+  "term": "Spacecraft",
+  "meaning": "A vehicle designed to travel or operate in space.",
+  "aliases": [
+   "Spacecraft"
+  ]
+ },
+ {
+  "id": "spatial-resolution",
+  "term": "Spatial Resolution",
+  "meaning": "The ground area represented by one pixel in an image.",
+  "aliases": [
+   "Spatial Resolution"
+  ]
+ },
+ {
+  "id": "sqlite",
+  "term": "SQLite",
+  "meaning": "A lightweight database that stores information in a local file.",
+  "aliases": [
+   "SQLite"
+  ]
+ },
+ {
+  "id": "telemetry",
+  "term": "Telemetry",
+  "meaning": "Information sent from a spacecraft or satellite about its condition and performance.",
+  "aliases": [
+   "Telemetry"
+  ]
+ },
+ {
+  "id": "temporal-resolution",
+  "term": "Temporal Resolution",
+  "meaning": "How often the same area can be observed.",
+  "aliases": [
+   "Temporal Resolution"
+  ]
+ },
+ {
+  "id": "text-chunk",
+  "term": "Text Chunk",
+  "meaning": "A small section of a document created to make searching easier.",
+  "aliases": [
+   "Text Chunk"
+  ]
+ },
+ {
+  "id": "text-to-speech-tts",
+  "term": "Text-to-Speech (TTS)",
+  "meaning": "Technology that converts written text into spoken audio.",
+  "aliases": [
+   "Text-to-Speech",
+   "TTS",
+   "Text-to-Speech (TTS)"
+  ]
+ },
+ {
+  "id": "tf-idf",
+  "term": "TF-IDF",
+  "meaning": "A method that scores words based on their importance in documents.",
+  "aliases": [
+   "TF-IDF"
+  ]
+ },
+ {
+  "id": "trajectory",
+  "term": "Trajectory",
+  "meaning": "The path an object follows as it moves.",
+  "aliases": [
+   "Trajectory"
+  ]
+ },
+ {
+  "id": "vectorization",
+  "term": "Vectorization",
+  "meaning": "Turning text into numbers so a computer can compare or process it.",
+  "aliases": [
+   "Vectorization"
+  ]
+ },
+ {
+  "id": "velocity",
+  "term": "Velocity",
+  "meaning": "Speed of movement in a particular direction.",
+  "aliases": [
+   "Velocity"
+  ]
+ },
+ {
+  "id": "voice-cloning",
+  "term": "Voice Cloning",
+  "meaning": "Creating a synthetic voice resembling a particular speaker, with proper permission.",
+  "aliases": [
+   "Voice Cloning"
+  ]
+ },
+ {
+  "id": "wind-vector",
+  "term": "Wind Vector",
+  "meaning": "Wind information that includes speed and direction.",
+  "aliases": [
+   "Wind Vector"
+  ]
+ }
+]

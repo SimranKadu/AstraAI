@@ -1,0 +1,800 @@
+{
+ "updated": "9 October 2026",
+ "disclaimer": "This guide is for career planning, not a guarantee of eligibility or selection. Post names, accepted degrees, minimum marks, age limits, exam patterns and deadlines can change between recruitment cycles. Always follow the latest official advertisement for the exact vacancy. ISRO does not require candidates to pay agents for appointment.",
+ "officialLinks": [
+  {
+   "name": "ISRO Careers",
+   "url": "https://www.isro.gov.in/ISRO_EN/Careers.html"
+  },
+  {
+   "name": "ISRO Current Opportunities",
+   "url": "https://www.isro.gov.in/CurrentOpportunities.html"
+  }
+ ],
+ "groups": [
+  "Engineering",
+  "Science and research",
+  "Technical and trade",
+  "Administration and medical"
+ ],
+ "examRoutes": {
+  "sc": {
+   "title": "Scientist/Engineer 'SC' (engineering graduates)",
+   "points": [
+    "Depending on the recruitment advertisement, selection may be through a written/computer-based test and interview, through GATE-score-based shortlisting and interview, or another method stated in that notice.",
+    "Some recruitment drives combine different routes for different vacancies. Do not assume GATE is compulsory for every Scientist/Engineer post, and do not assume GATE alone guarantees selection.",
+    "Prepare the core subjects for your engineering branch, engineering mathematics where relevant, and previous papers for the exact post/discipline.",
+    "The official ICRB advertisement is the authority for accepted degrees, minimum marks, age, selection stages and dates."
+   ]
+  },
+  "gate": {
+   "title": "GATE (Graduate Aptitude Test in Engineering)",
+   "points": [
+    "Useful for engineering and some science-related recruitment routes when the specific ISRO notice accepts a GATE score.",
+    "Choose the GATE paper that matches your discipline and the advertisement's requirements.",
+    "Preparation: core undergraduate subjects, engineering mathematics where applicable, previous GATE papers, timed mock tests and error analysis.",
+    "Check the current year's official GATE website for the relevant cycle."
+   ],
+   "link": {
+    "name": "GATE official portal",
+    "url": "https://gate2026.iitg.ac.in/"
+   }
+  },
+  "research": {
+   "title": "Research fellowships and project posts (JRF, SRF, Research Associate, Project Scientist)",
+   "points": [
+    "JRF, SRF, Research Associate and Project Scientist vacancies are advertised by centres such as SAC, NRSC, PRL, URSC and others.",
+    "The criteria vary: some may ask for a relevant M.Sc./M.Tech, GATE, UGC-CSIR NET, another national test, research experience or an interview. Read the individual notice.",
+    "For Physics, Mathematics and related research pathways, UGC-CSIR NET or GATE may be relevant to certain posts, but neither is a universal requirement for all ISRO research roles."
+   ]
+  },
+  "technical": {
+   "title": "Technical Assistant, Technician and other support roles",
+   "points": [
+    "These roles generally have their own centre-specific recruitment notification and may use a written/computer-based test, trade/skill test or other prescribed assessment.",
+    "Technical Assistant posts commonly require a relevant diploma; Technician-B commonly requires the specified ITI/trade qualification. The exact trade and marks requirements matter.",
+    "Practise the technical syllabus, trade fundamentals, mathematics/reasoning if included, and the centre's official previous papers."
+   ]
+  },
+  "admin": {
+   "title": "Administrative, stenography, accounts and medical roles",
+   "points": [
+    "Selection may include a computer-based/written examination, skill or typing test, interview, professional assessment or document verification, depending on the post.",
+    "Medical roles require the professional qualification and registration listed in the advertisement; administrative and finance roles have their own qualification rules."
+   ]
+  }
+ },
+ "noSingleExam": "There is no one common ISRO entrance exam for all jobs. ISRO's Centralised Recruitment Board (ICRB) and individual centres advertise different positions and may use different selection methods.",
+ "subjects": {
+  "all": {
+   "area": "All engineering candidates",
+   "topics": "Mathematics and core subjects required by the specific branch; use your university's standard textbooks and official syllabus."
+  },
+  "mech": {
+   "area": "Mechanical / Aerospace",
+   "topics": "Engineering mechanics, strength of materials, thermodynamics, fluid mechanics, heat transfer, propulsion-related basics, control and structures as applicable."
+  },
+  "ece": {
+   "area": "Electronics / ECE",
+   "topics": "Network theory, analog/digital electronics, signals and systems, communication, control systems, electromagnetic fields and microprocessors as applicable."
+  },
+  "cs": {
+   "area": "Computer Science / IT",
+   "topics": "Programming, data structures and algorithms, discrete mathematics, operating systems, databases, computer networks, software engineering and theory of computation as applicable."
+  },
+  "physics": {
+   "area": "Physics / Space Science",
+   "topics": "Classical mechanics, electromagnetism, quantum mechanics, statistical mechanics, mathematical methods and the specialised subject listed for the exam."
+  },
+  "rs": {
+   "area": "Remote Sensing / GIS",
+   "topics": "Remote sensing fundamentals, GIS, coordinate systems, image processing, geospatial analysis and interpretation of satellite data."
+  },
+  "tech": {
+   "area": "Technical and ITI roles",
+   "topics": "Trade theory, workshop practice, safety, tools, measurements and the exact technical syllabus for the trade."
+  }
+ },
+ "bookNote": "Book selection note (from the guide): use the books prescribed by your degree programme and standard references for your branch. The official syllabus and past papers should decide what to prioritise; avoid buying large sets of books before identifying the target exam.",
+ "bookDisclaimer": "Titles below are widely used standard textbooks suggested by ASTRAAI. They are not listed in the ISRO career guide, which names no specific books, so treat them as optional references.",
+ "resources": {
+  "careers": {
+   "name": "Official ISRO Careers",
+   "use": "Recruitment notifications, eligibility, career information, fellowships and old question papers.",
+   "url": "https://www.isro.gov.in/ISRO_EN/Careers.html"
+  },
+  "current": {
+   "name": "ISRO Current Opportunities",
+   "use": "Centre-wise and centralised vacancies, application dates and detailed notices.",
+   "url": "https://www.isro.gov.in/CurrentOpportunities.html"
+  },
+  "papers": {
+   "name": "ISRO old question papers",
+   "use": "Previous papers published for particular disciplines and posts; availability varies.",
+   "url": "https://www.isro.gov.in/ISRO_EN/Careers.html"
+  },
+  "nptel": {
+   "name": "NPTEL",
+   "use": "Free learning materials and courses in engineering mathematics, thermodynamics, fluids, electronics, control systems, programming and algorithms.",
+   "url": "https://nptel.ac.in/"
+  },
+  "iirs": {
+   "name": "IIRS e-learning",
+   "use": "Remote sensing, GIS, geoinformatics, photogrammetry and satellite image processing courses.",
+   "url": "https://elearning.iirs.gov.in/"
+  },
+  "mosdac": {
+   "name": "MOSDAC",
+   "use": "Meteorological and oceanographic satellite imagery and data for weather and Earth observation learning.",
+   "url": "https://www.mosdac.gov.in/"
+  },
+  "missions": {
+   "name": "Official ISRO mission information",
+   "use": "Understand launch vehicles, satellites, navigation, planetary missions, human spaceflight and science payloads.",
+   "url": "https://www.isro.gov.in/"
+  },
+  "gate": {
+   "name": "GATE official portal",
+   "use": "Use the official website for the current exam year, syllabus, papers and dates; the 2026 portal is linked here as a reference.",
+   "url": "https://gate2026.iitg.ac.in/"
+  }
+ },
+ "prepSteps": [
+  "Choose one target post and read its latest official advertisement from beginning to end.",
+  "Confirm that your degree, branch, marks, age and any required experience match the eligibility criteria.",
+  "Download the syllabus and official previous papers for that post/discipline.",
+  "Build strong fundamentals in your degree subjects; practise numerical and conceptual questions rather than memorising solutions.",
+  "Take timed mock tests and keep an error notebook with topics to revise.",
+  "Prepare for the interview or skill test only if that stage is part of the stated selection process.",
+  "Apply only through official recruitment links and beware of fake appointment letters or agents asking for money."
+ ],
+ "plan": [
+  {
+   "month": 1,
+   "focus": "Review mathematics and fundamentals of the chosen discipline; read the target recruitment syllabus."
+  },
+  {
+   "month": 2,
+   "focus": "Cover the first major core subjects and practise topic-wise questions."
+  },
+  {
+   "month": 3,
+   "focus": "Continue core subjects and work through numerical and conceptual problems."
+  },
+  {
+   "month": 4,
+   "focus": "Finish high-priority topics and begin solving previous recruitment papers."
+  },
+  {
+   "month": 5,
+   "focus": "Take timed mock tests; analyse mistakes and revise weak areas."
+  },
+  {
+   "month": 6,
+   "focus": "Practise full papers, revise formulas and confirm the latest recruitment eligibility and selection method."
+  }
+ ],
+ "dailyRoutine": "Suggested daily routine: 1 to 2 hours of core subjects, 30 minutes of problem-solving and 15 minutes reviewing mistakes. Adapt this to your semester schedule and exam date.",
+ "checklist": [
+  "Current education: Class 10/12, diploma/ITI, B.E./B.Tech, B.Sc./M.Sc. or graduate.",
+  "Branch or subject: CSE/IT, ECE, Mechanical, Electrical, Civil, Physics, Mathematics, Geography, etc.",
+  "Preferred role: software/AI, rockets, satellite electronics, space science, remote sensing, technical work or administration.",
+  "Target qualification and eligibility: confirm in the current vacancy advertisement.",
+  "Exam route: GATE, ISRO written/CBT, interview, skill test, NET or other route only when specified.",
+  "Resources: official syllabus, previous papers, core textbooks and free NPTEL/IIRS courses where relevant."
+ ],
+ "roles": [
+  {
+   "id": "mech-aero",
+   "group": "Engineering",
+   "title": "Scientist/Engineer, Mechanical/Aerospace",
+   "short": "Design and test launch vehicles, propulsion hardware and spacecraft structures.",
+   "studies": "B.E./B.Tech in Mechanical or Aerospace",
+   "work": "Design and test launch vehicles, propulsion hardware, spacecraft structures, thermal systems and mechanisms.",
+   "goal": "Rocket and launch vehicle engineering",
+   "study": "B.E./B.Tech or other specified degree in Mechanical, Aerospace or an accepted related discipline; higher study may help for specialist roles.",
+   "path": "Class 11–12 Science with PCM → B.E./B.Tech Mechanical or Aerospace, or another accepted discipline.",
+   "exams": [
+    "sc",
+    "gate"
+   ],
+   "examNote": "",
+   "subjects": [
+    "all",
+    "mech"
+   ],
+   "books": [
+    {
+     "title": "Advanced Engineering Mathematics",
+     "author": "Erwin Kreyszig"
+    },
+    {
+     "title": "Higher Engineering Mathematics",
+     "author": "B.S. Grewal"
+    },
+    {
+     "title": "Introduction to Flight",
+     "author": "John D. Anderson Jr."
+    },
+    {
+     "title": "Rocket Propulsion Elements",
+     "author": "George P. Sutton and Oscar Biblarz"
+    },
+    {
+     "title": "Engineering Thermodynamics",
+     "author": "P.K. Nag"
+    },
+    {
+     "title": "Fluid Mechanics",
+     "author": "Frank M. White"
+    },
+    {
+     "title": "Mechanics of Materials",
+     "author": "Ferdinand Beer and E. Russell Johnston"
+    },
+    {
+     "title": "Orbital Mechanics for Engineering Students",
+     "author": "Howard D. Curtis"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "nptel",
+    "gate"
+   ]
+  },
+  {
+   "id": "ece",
+   "group": "Engineering",
+   "title": "Scientist/Engineer, Electronics/ECE",
+   "short": "Develop satellite communication systems, antennas, sensors and onboard electronics.",
+   "studies": "B.E./B.Tech in ECE or Electronics",
+   "work": "Develop satellite communication systems, antennas, sensors, navigation electronics, signal processing and onboard systems.",
+   "goal": "Satellite electronics and communications",
+   "study": "B.E./B.Tech in ECE, Electronics or an accepted equivalent discipline.",
+   "path": "PCM → B.E./B.Tech ECE, Electronics or an accepted equivalent.",
+   "exams": [
+    "sc",
+    "gate"
+   ],
+   "examNote": "",
+   "subjects": [
+    "all",
+    "ece"
+   ],
+   "books": [
+    {
+     "title": "Advanced Engineering Mathematics",
+     "author": "Erwin Kreyszig"
+    },
+    {
+     "title": "Higher Engineering Mathematics",
+     "author": "B.S. Grewal"
+    },
+    {
+     "title": "Network Analysis",
+     "author": "M.E. Van Valkenburg"
+    },
+    {
+     "title": "Microelectronic Circuits",
+     "author": "Adel Sedra and Kenneth Smith"
+    },
+    {
+     "title": "Signals and Systems",
+     "author": "Alan V. Oppenheim and Alan S. Willsky"
+    },
+    {
+     "title": "Digital Design",
+     "author": "M. Morris Mano"
+    },
+    {
+     "title": "Communication Systems",
+     "author": "Simon Haykin"
+    },
+    {
+     "title": "Control Systems Engineering",
+     "author": "Norman S. Nise"
+    },
+    {
+     "title": "Engineering Electromagnetics",
+     "author": "William H. Hayt and John A. Buck"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "nptel",
+    "gate"
+   ]
+  },
+  {
+   "id": "cs-it",
+   "group": "Engineering",
+   "title": "Scientist/Engineer, Computer Science/IT",
+   "short": "Build mission software, simulations, satellite data pipelines and ground systems.",
+   "studies": "B.E./B.Tech in CSE or IT",
+   "work": "Develop mission software, simulations, satellite data pipelines, ground systems, automation and secure computing.",
+   "goal": "Space software, AI and data processing",
+   "study": "B.E./B.Tech in CSE, IT or another discipline explicitly accepted in the advertisement.",
+   "path": "PCM → B.E./B.Tech CSE, IT, AI/ML or another degree accepted for the target vacancy.",
+   "exams": [
+    "sc",
+    "gate"
+   ],
+   "examNote": "",
+   "subjects": [
+    "all",
+    "cs"
+   ],
+   "books": [
+    {
+     "title": "Advanced Engineering Mathematics",
+     "author": "Erwin Kreyszig"
+    },
+    {
+     "title": "Higher Engineering Mathematics",
+     "author": "B.S. Grewal"
+    },
+    {
+     "title": "Introduction to Algorithms",
+     "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein"
+    },
+    {
+     "title": "Operating System Concepts",
+     "author": "Abraham Silberschatz, Peter B. Galvin and Greg Gagne"
+    },
+    {
+     "title": "Computer Networks",
+     "author": "Andrew S. Tanenbaum"
+    },
+    {
+     "title": "Database System Concepts",
+     "author": "Abraham Silberschatz, Henry F. Korth and S. Sudarshan"
+    },
+    {
+     "title": "Discrete Mathematics and Its Applications",
+     "author": "Kenneth H. Rosen"
+    },
+    {
+     "title": "Introduction to the Theory of Computation",
+     "author": "Michael Sipser"
+    },
+    {
+     "title": "The C Programming Language",
+     "author": "Brian W. Kernighan and Dennis M. Ritchie"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "nptel",
+    "gate"
+   ]
+  },
+  {
+   "id": "mission-ops",
+   "group": "Engineering",
+   "title": "Mission Operations / Flight Dynamics",
+   "short": "Track spacecraft, determine orbits, analyse trajectories and plan manoeuvres.",
+   "studies": "Aerospace, mechanical, electronics, CS, physics or maths degree",
+   "work": "Support spacecraft tracking, orbit determination, trajectory analysis, mission planning and satellite manoeuvres.",
+   "goal": null,
+   "study": "Relevant degree in aerospace, mechanical, electronics, computer science, physics or mathematics, depending on the vacancy.",
+   "path": null,
+   "exams": [
+    "sc"
+   ],
+   "examNote": "The guide does not name one fixed exam for this area, so read the individual notice. Vacancies are advertised under different routes depending on the post.",
+   "subjects": [
+    "all",
+    "mech",
+    "physics"
+   ],
+   "subjectNote": "Choose the row that matches your own degree.",
+   "books": [
+    {
+     "title": "Advanced Engineering Mathematics",
+     "author": "Erwin Kreyszig"
+    },
+    {
+     "title": "Higher Engineering Mathematics",
+     "author": "B.S. Grewal"
+    },
+    {
+     "title": "Orbital Mechanics for Engineering Students",
+     "author": "Howard D. Curtis"
+    },
+    {
+     "title": "Fundamentals of Astrodynamics",
+     "author": "Roger R. Bate, Donald D. Mueller and Jerry E. White"
+    },
+    {
+     "title": "Space Mission Analysis and Design",
+     "author": "James R. Wertz and Wiley J. Larson"
+    },
+    {
+     "title": "Introduction to Flight",
+     "author": "John D. Anderson Jr."
+    },
+    {
+     "title": "Rocket Propulsion Elements",
+     "author": "George P. Sutton and Oscar Biblarz"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "nptel",
+    "missions"
+   ]
+  },
+  {
+   "id": "payload",
+   "group": "Engineering",
+   "title": "Payload / Instrumentation Engineer or Scientist",
+   "short": "Develop the cameras, spectrometers and sensors that spacecraft carry.",
+   "studies": "Physics, optics, instrumentation, ECE, electrical or mechanical",
+   "work": "Develop cameras, spectrometers, sensors and scientific instruments carried by spacecraft.",
+   "goal": null,
+   "study": "Relevant degree in Physics, Optics, Instrumentation, ECE, Electrical or Mechanical Engineering, as specified.",
+   "path": null,
+   "exams": [
+    "sc",
+    "research"
+   ],
+   "examNote": "The guide does not name one fixed exam for this area, so read the individual notice. Engineering posts and research posts follow different routes.",
+   "subjects": [
+    "ece",
+    "physics"
+   ],
+   "subjectNote": "Choose the row that matches your own degree.",
+   "books": [
+    {
+     "title": "Advanced Engineering Mathematics",
+     "author": "Erwin Kreyszig"
+    },
+    {
+     "title": "Optics",
+     "author": "Eugene Hecht"
+    },
+    {
+     "title": "Electrical and Electronic Measurements and Instrumentation",
+     "author": "A.K. Sawhney"
+    },
+    {
+     "title": "Network Analysis",
+     "author": "M.E. Van Valkenburg"
+    },
+    {
+     "title": "Microelectronic Circuits",
+     "author": "Adel Sedra and Kenneth Smith"
+    },
+    {
+     "title": "Signals and Systems",
+     "author": "Alan V. Oppenheim and Alan S. Willsky"
+    },
+    {
+     "title": "Classical Mechanics",
+     "author": "John R. Taylor"
+    },
+    {
+     "title": "Introduction to Electrodynamics",
+     "author": "David J. Griffiths"
+    },
+    {
+     "title": "Introduction to Quantum Mechanics",
+     "author": "David J. Griffiths"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "nptel",
+    "missions"
+   ]
+  },
+  {
+   "id": "remote-sensing",
+   "group": "Science and research",
+   "title": "Remote Sensing / Earth Observation Scientist",
+   "short": "Interpret satellite imagery for agriculture, forests, water, oceans and disasters.",
+   "studies": "Science or engineering degree; some posts need a PG in remote sensing or GIS",
+   "work": "Interpret satellite imagery for agriculture, forests, water resources, oceans, mapping and disaster management.",
+   "goal": "Satellite imagery, GIS and Earth observation",
+   "study": "Relevant engineering/science degree; some posts require a specified postgraduate degree in remote sensing, GIS, geoinformatics or a related field.",
+   "path": "Relevant bachelor's degree in engineering/science/geography/geology etc.; postgraduate study may be required for some posts.",
+   "exams": [
+    "sc",
+    "research"
+   ],
+   "examNote": "The guide does not name one fixed exam for this area, so read the individual notice. Some posts are advertised through the Scientist/Engineer route and others as research or project posts.",
+   "subjects": [
+    "rs"
+   ],
+   "books": [
+    {
+     "title": "Remote Sensing and Image Interpretation",
+     "author": "Thomas Lillesand, Ralph Kiefer and Jonathan Chipman"
+    },
+    {
+     "title": "Introduction to Remote Sensing",
+     "author": "James B. Campbell and Randolph H. Wynne"
+    },
+    {
+     "title": "Remote Sensing of the Environment",
+     "author": "John R. Jensen"
+    },
+    {
+     "title": "Digital Image Processing",
+     "author": "Rafael C. Gonzalez and Richard E. Woods"
+    },
+    {
+     "title": "Concepts and Techniques of Geographic Information Systems",
+     "author": "C.P. Lo and Albert K.W. Yeung"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "iirs",
+    "mosdac",
+    "nptel"
+   ]
+  },
+  {
+   "id": "space-science",
+   "group": "Science and research",
+   "title": "Space Science Researcher",
+   "short": "Study planets, the Sun, astronomy, atmospheres and mission science data.",
+   "studies": "B.Sc. then M.Sc. in Physics, Maths or Astronomy; Ph.D. for research",
+   "work": "Study planetary science, solar physics, astronomy, atmospheres, plasma and scientific data from space missions.",
+   "goal": "Space science, astronomy or planetary research",
+   "study": "Often B.Sc. then M.Sc. in Physics, Mathematics, Astronomy/Astrophysics or a relevant field; Ph.D. for many independent research careers.",
+   "path": "B.Sc. → M.Sc. in Physics, Mathematics, Astronomy/Astrophysics or relevant field; Ph.D. for many research roles.",
+   "exams": [
+    "research",
+    "gate"
+   ],
+   "examNote": "",
+   "subjects": [
+    "physics"
+   ],
+   "books": [
+    {
+     "title": "Advanced Engineering Mathematics",
+     "author": "Erwin Kreyszig"
+    },
+    {
+     "title": "Classical Mechanics",
+     "author": "John R. Taylor"
+    },
+    {
+     "title": "Introduction to Electrodynamics",
+     "author": "David J. Griffiths"
+    },
+    {
+     "title": "Introduction to Quantum Mechanics",
+     "author": "David J. Griffiths"
+    },
+    {
+     "title": "Fundamentals of Statistical and Thermal Physics",
+     "author": "F. Reif"
+    },
+    {
+     "title": "Mathematical Methods for Physicists",
+     "author": "George B. Arfken and Hans J. Weber"
+    },
+    {
+     "title": "An Introduction to Modern Astrophysics",
+     "author": "Bradley W. Carroll and Dale A. Ostlie"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "missions",
+    "mosdac",
+    "nptel"
+   ]
+  },
+  {
+   "id": "research-fellow",
+   "group": "Science and research",
+   "title": "Research Fellow (JRF/SRF), Research Associate, Project Scientist",
+   "short": "Work on a defined research project; many posts are project-specific or temporary.",
+   "studies": "Relevant postgraduate degree and/or GATE or NET, as the notice says",
+   "work": "Work on a defined scientific or technical research project; many positions are project-specific or temporary.",
+   "goal": null,
+   "study": "Relevant postgraduate degree and/or GATE, NET or other criteria when specified by the individual advertisement.",
+   "path": null,
+   "exams": [
+    "research",
+    "gate"
+   ],
+   "examNote": "",
+   "subjects": [
+    "all",
+    "physics"
+   ],
+   "subjectNote": "Study the core subjects of your own M.Sc./M.Tech, plus the GATE or UGC-CSIR NET syllabus if the notice asks for it.",
+   "books": [
+    {
+     "title": "Advanced Engineering Mathematics",
+     "author": "Erwin Kreyszig"
+    },
+    {
+     "title": "Classical Mechanics",
+     "author": "John R. Taylor"
+    },
+    {
+     "title": "Introduction to Electrodynamics",
+     "author": "David J. Griffiths"
+    },
+    {
+     "title": "Introduction to Quantum Mechanics",
+     "author": "David J. Griffiths"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "nptel",
+    "gate"
+   ]
+  },
+  {
+   "id": "scientific-assistant",
+   "group": "Science and research",
+   "title": "Scientific Assistant / Research Staff",
+   "short": "Support laboratories, experiments, data analysis and research projects.",
+   "studies": "B.Sc. or a relevant postgraduate degree",
+   "work": "Support scientific laboratories, experiments, data analysis and research projects.",
+   "goal": null,
+   "study": "B.Sc. or a relevant postgraduate qualification, depending on the exact post.",
+   "path": null,
+   "exams": [
+    "technical"
+   ],
+   "examNote": "The guide does not give a dedicated exam for this post. Support-role recruitment is centre-specific, so read the notice.",
+   "subjects": [
+    "physics"
+   ],
+   "subjectNote": "Study the subject of your own B.Sc. or postgraduate degree.",
+   "books": [
+    {
+     "title": "Classical Mechanics",
+     "author": "John R. Taylor"
+    },
+    {
+     "title": "Introduction to Electrodynamics",
+     "author": "David J. Griffiths"
+    },
+    {
+     "title": "Introduction to Quantum Mechanics",
+     "author": "David J. Griffiths"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "nptel"
+   ]
+  },
+  {
+   "id": "technical-assistant",
+   "group": "Technical and trade",
+   "title": "Technical Assistant",
+   "short": "Assist with assembly, testing, inspection and laboratory equipment.",
+   "studies": "Relevant engineering diploma",
+   "work": "Assist with assembly, testing, inspection, laboratory equipment and technical production work.",
+   "goal": null,
+   "study": "Usually a relevant engineering diploma for the discipline listed in the notice.",
+   "path": "Relevant engineering diploma matching the vacancy.",
+   "exams": [
+    "technical"
+   ],
+   "examNote": "",
+   "subjects": [
+    "tech"
+   ],
+   "subjectNote": "Use the exact technical syllabus for your diploma discipline.",
+   "books": [
+    {
+     "title": "Elements of Workshop Technology",
+     "author": "S.K. Hajra Choudhury"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers",
+    "nptel"
+   ]
+  },
+  {
+   "id": "technician-draughtsman",
+   "group": "Technical and trade",
+   "title": "Technician-B / Draughtsman",
+   "short": "Skilled trade work: fabrication, fitting, electrical upkeep and technical drawing.",
+   "studies": "10th/SSLC plus the ITI/trade qualification named in the notice",
+   "work": "Perform trade-based technical work, fabrication, fitting, electrical/electronics maintenance or technical drawings.",
+   "goal": null,
+   "study": "Usually SSLC/10th plus the prescribed ITI/NTC/NAC or other trade qualification listed in the notice.",
+   "path": "10th/SSLC and the exact ITI/trade certificate specified.",
+   "exams": [
+    "technical"
+   ],
+   "examNote": "",
+   "subjects": [
+    "tech"
+   ],
+   "books": [
+    {
+     "title": "Elements of Workshop Technology",
+     "author": "S.K. Hajra Choudhury"
+    }
+   ],
+   "resources": [
+    "careers",
+    "current",
+    "papers"
+   ]
+  },
+  {
+   "id": "admin-accounts",
+   "group": "Administration and medical",
+   "title": "Administrative / Accounts / Purchase & Stores",
+   "short": "Run administration, budgets, accounts, procurement, contracts and personnel work.",
+   "studies": "Relevant degree plus any professional qualification the notice requires",
+   "work": "Manage office administration, budgets, accounts, procurement, contracts and personnel processes.",
+   "goal": "Administration / finance / purchase",
+   "study": "Degree and any required professional qualifications or experience stated in the notice.",
+   "path": "Relevant bachelor's degree and any additional professional qualifications stated in the advertisement.",
+   "exams": [
+    "admin"
+   ],
+   "examNote": "",
+   "subjects": [],
+   "subjectNote": "The guide gives no subject list for these posts. Follow the syllabus and selection stages stated in the advertisement.",
+   "books": [],
+   "resources": [
+    "careers",
+    "current",
+    "papers"
+   ]
+  },
+  {
+   "id": "medical",
+   "group": "Administration and medical",
+   "title": "Medical / Specialist Staff",
+   "short": "Provide clinical care, occupational health and specialist services at eligible centres.",
+   "studies": "MBBS or the recognised professional qualification and registration",
+   "work": "Provide clinical care, occupational health and specialist services at eligible centres.",
+   "goal": "Medical Officer",
+   "study": "MBBS or the relevant recognised professional qualification and registration/specialisation, as required.",
+   "path": "MBBS and prescribed registration or additional qualifications.",
+   "exams": [
+    "admin"
+   ],
+   "examNote": "",
+   "subjects": [],
+   "subjectNote": "Study the standard textbooks of your medical qualification and the syllabus stated in the advertisement.",
+   "books": [],
+   "resources": [
+    "careers",
+    "current",
+    "papers"
+   ]
+  }
+ ]
+}
